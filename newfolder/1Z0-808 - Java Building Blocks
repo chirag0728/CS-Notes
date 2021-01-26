@@ -1,0 +1,16 @@
+Class = Variables and Objects.
+
+Variables
+- Declaration
+  -Type and Name 
+  -Initializing - Assigning a Value
+-Assignment
+  - = is the simplest one
+    - assigns a value to the variable.
+  - rules:
+      - int assigned to float, or any larger data type with be automatically converted into a float
+      - short, byte and other smaller data types used with an operator are automatically converted into an int. 
+- Compound Assignment
+  - simplifies assignment and operator
+    - *=, +=, -=,/=, %=
+      - also takes away the need for casting
